@@ -1,0 +1,19 @@
+#title{text-align:center;
+font-size:2vw;}
+
+#text2{text-align:center;
+font-size:1vw;}
+
+#letter1{position:relative;
+}
+
+#textarea{display:flex;
+justify-content: center;
+  width:100%
+  font-size:1vw;
+}
+
+#button{display:flex;
+justify-content: center;
+  font-size:1vw;
+}

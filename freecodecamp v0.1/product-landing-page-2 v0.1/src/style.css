@@ -1,0 +1,121 @@
+
+.nav{
+  background-color:black;
+height:50px
+
+}
+img{max-width: 100%;
+    height: auto;
+    width: 12%; /* ie8 */
+  padding:0px;
+  position:relative;
+  left:0%;
+top:-60px}
+
+.btn{
+ color:black;
+  font-family: 'Abel';
+    font-size:1vw;
+
+}
+
+.display-4{font-family: 'Abel';
+    font-size:1vw;
+;
+ 
+}
+.lead{font-family: 'Abel';
+    font-size:1vw;
+;
+}
+
+.nav-link{font-family: 'Abel';
+  font-size:1vw;
+}
+
+#main{background-color:grey;
+height:1200px;
+}
+
+
+.nav-link{
+  color:grey
+}
+
+#letters{
+  font-size:1vw;
+  text-align:center;
+  font-family: 'Abel';
+    color:white;
+}
+
+#box1{width:auto;
+    font-size:1vw;
+
+text-align:center;
+border: 5px solid black;
+justify-self:center;
+  font-family: 'Abel';
+  position:relative;
+  left:113px;
+}
+
+#box2{
+    font-size:1vw;
+
+  width:auto;
+text-align:center;
+border: 5px solid black;
+font-family: 'Abel';
+ justify-self:center;
+  position:relative;
+  left:-116px;
+}
+
+#box3{
+  width:auto;
+text-align:center;
+border: 5px solid black;
+font-family: 'Abel';
+ justify-self:center;
+    font-size:1vw;
+
+}
+
+#dope{display:grid;
+grid-row-gap:10px;
+  
+  }
+ 
+#letter2{
+    font-size:1vw;
+
+  text-align:center;
+  font-family: 'Abel';
+  
+  color:white;
+}
+
+#img1{
+  max-width:100;
+  width: 2%;
+  height: auto;
+margin:px;
+padding:px;
+position:relative;
+  top:12%;
+  left:47%;}
+
+.jumbotron{    font-size:1vw;
+}
+
+
+
+
+
+    
+  
+    
+
+  
+
